@@ -1,0 +1,60 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#aboutme {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    background-color: red;
+    color: yellow;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.my_nav_bar {
+  position:sticky;
+  top:0;
+  z-index:99999;
+}
+
+#email {
+    color: yellow;
+    font: bold;
+}
+#instragram {
+    color: yellow;
+    font: bold;
+}
+
+#videos {
+    font-family: sans-serif;
+    font: bold;
+    color: yellow;
+    background-color: red;
+}
+
+#work {
+    background-color: red;
+    color: yellow;
+    font: bold;
+    font-family: sans-serif;
+}
